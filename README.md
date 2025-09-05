@@ -1,5 +1,5 @@
 @MandoxaElemental
-- Software Engineer
+- Software Engineer | Full Stack Developer | Next.js | React.js | C#
 - Check out my Twitter @GReinares for more artistic projects
 
 <!---
